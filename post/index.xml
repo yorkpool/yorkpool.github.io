@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on York Pool</title>
+    <link>https://yorkpool.com/post/</link>
+    <description>Recent content in Posts on York Pool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://yorkpool.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Basics of Chia to Get You Started</title>
+      <link>https://yorkpool.com/post/c-00001/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yorkpool.com/post/c-00001/</guid>
+      <description>https://github.com/Chia-Network/chia-blockchain/wiki/Beginners-Guide
+Chia is a new type of cryptocurrency that is based on the capacity of pre-stored random-looking data that the user creates and stores in files called plots. With Chia a very low resource-intensive process checks plot files for proof of space and time. This makes Chia very fast and green. It is an improvement over proof of work blockchains, which rely on fast graphic cards and custom machines doing millions of calculations per second and wasting a lot of electricity.</description>
+    </item>
+    
+  </channel>
+</rss>
